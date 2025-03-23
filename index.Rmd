@@ -1,6 +1,6 @@
 ---
 title: "Kelsey Cherland"
-image: "photo/cabbin.jpg"
+image: "photo/logo.png"
 links:
   - label: Linkedin
     url: "https://www.linkedin.com/in/kelsey-cherland/"
