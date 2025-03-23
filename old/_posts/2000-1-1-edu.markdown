@@ -1,0 +1,7 @@
+---
+layout: default
+img: grad_csuf.jpg
+category: Education
+title: Master of Science in Statistics
+---
+* California State University, Fullerton (2022)

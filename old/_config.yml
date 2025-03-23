@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.dcassol.com
-title: Daniela Cassol
-email: danicassol@gmail.com
-author: Daniela Cassol
-description: "Daniela's Personal Page"
+url: https://figur8s.github.io/kcherland.github.io/
+title: Kelsey Cherland
+email: kelsey.cherland@gmail.com
+author: Kelsey Cherland
+description: "Kelsey Cherland's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,20 +26,17 @@ plugins:
 social:
   - icon: github
     title: github
-    url: https://github.com/dcassol  
+    url: https://github.com/figur8s 
   - icon: envelope-o
     title: email
-    url: mailto:danicassol@gmail.com
+    url: mailto:kelsey.cherland@gmail.com
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/dcassol/
+    url: https://www.linkedin.com/in/kelsey-cherland/
 #  - icon: file-pdf-o
 #    title: CV
-#    url: img/CassolDanielaCV.pdf
-#  - icon: website
-#    title: CV Lattes
-#    url: http://lattes.cnpq.br/5399100590606067
-  - icon: twitter
-    title: twitter
-    url: https://twitter.com/danicassol
+#    url: img/MyCV.pdf
+#  - icon: twitter
+#    title: twitter
+#    url: https://twitter.com/MyName
 
